@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="no_internet_connection">No internet connection found.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_search_term_default">Nintendo</string>
+    <string name="settings_search_term_key">search_term</string>
+    <string name="settings_search_term_label">Search Term</string>
+
+    <string name="settings_page_size_default">20</string>
+    <string name="settings_page_size_key">page_size</string>
+    <string name="settings_page_size_label">Stories to Display</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">relevance</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+</resources>
